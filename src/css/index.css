@@ -1,0 +1,39 @@
+.header {
+    margin: 20px;
+}
+
+.header--icon {
+    color: var(--brand-color);
+    font-size: 30px;
+}
+
+.main--titles {
+    margin: 20px;
+    font-weight: 700;
+    width: 40%;
+}
+
+h1.titles--title {
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+
+.main--button {
+    padding: 10px;
+    border: 0;
+    border-radius: 15px;
+    font-size: 18px;
+    margin: 10px;
+    width: 300px;
+    /* text-overflow: ; */
+}
+
+.main--button__white {
+    border: 1px solid gray;
+    background: white;
+}
+
+.main--button__blue {
+    background: var(--brand-color);
+    color: white;
+}
